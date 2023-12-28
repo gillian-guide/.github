@@ -1,2 +1,3 @@
-# .github
-Metrics for the organization
+<picture>
+  <img src="/github-metrics.png" alt="Metrics">
+</picture>
